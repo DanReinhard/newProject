@@ -1,0 +1,16 @@
+body {
+    margin: 50px 550px;
+    border: 1px black solid;
+
+}
+h1{
+    text-align: center;
+}
+p, input {
+    margin: 5px 20px;
+}
+#submit {
+    margin: 20px;
+    padding: 0 80px;
+    text-align: center;
+}
