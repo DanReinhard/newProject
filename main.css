@@ -1,13 +1,18 @@
-body {
-    margin: 50px 550px;
-    border: 1px black solid;
 
+body {
+    margin: 0 auto;
+    border: 1px black solid;
+    border-radius: 10px;
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    
 }
 h1{
     text-align: center;
 }
-p, input {
-    margin: 5px 20px;
+input, label {
+    margin-top: 15px
 }
 #submit {
     margin: 20px;
